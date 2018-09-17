@@ -1,4 +1,5 @@
-/ReadMe
+Week 1
+
 * Math.cpp
 * tempconvert1.cpp
 * tempconvert2.cpp
