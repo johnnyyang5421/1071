@@ -7,5 +7,5 @@ Week 1
 
 Week 2
 
-*Second change to H M S.cpp
-*Year.cpp
+* Second change to H M S.cpp
+* Year.cpp
