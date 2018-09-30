@@ -9,3 +9,12 @@ Week 2
 
 * Second change to H M S.cpp
 * Year.cpp
+
+Week 3
+
+* BMI conculate.cpp
+* leap Year while.cpp
+* sum.cpp
+* while Second change to H M S.cpp
+
+Week 4
